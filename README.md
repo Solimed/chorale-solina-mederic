@@ -22,25 +22,26 @@ Site chorale/
 
 | # | Moment | Chant | Base du nom de fichier |
 |---|--------|-------|------------------------|
-| 1 | Procession d'entrée | L'Angélique (violoncelle & violon) | `01-l-angelique` |
-| 2 | Chant d'entrée | Céleste Jérusalem | `02-celeste-jerusalem` |
-| 3 | Gloria | Messe de saint Claude de la Colombière | `03-gloria` |
-| 4 | Psaume 138 | Seigneur, tu connais si bien mon âme | `04-psaume` ✅ PDF |
-| 5 | Alléluia | Taizé | `05-alleluia` |
-| 6 | Invocation de l'Esprit Saint | Viens, Esprit très Saint (Ad Dei Gloriam) | `06-viens-esprit-saint` ✅ PDF |
-| 7 | Action de grâce | Nouveau Laudate Dominum (Médéric & Solina) | `07-nouveau-laudate-dominum` |
-| 8 | Action de grâce | Laudate Dominum | `08-laudate-dominum` |
-| 9 | Prière universelle | O Marie, prends nos prières | `09-o-marie` |
-| 10 | Offertoire | Hostia Sancta | `10-hostia-sancta` |
-| 11 | Sanctus | | `11-sanctus` |
-| 12 | Anamnèse | | `12-anamnese` |
-| 13 | Notre Père (chanté) | Glorious | `13-notre-pere` |
-| 14 | Agnus Dei | Saint Augustin | `14-agnus-dei` |
-| 15 | Communion | En Esprit et en Vérité | `15-en-esprit-et-en-verite` |
-| 16 | Communion | En toi ma confiance | `16-en-toi-ma-confiance` |
-| 17 | Action de grâce | Anima Christi | `17-anima-christi` |
-| 18 | Consécration à la Vierge | Ave Maria (Caccini) | `18-ave-maria` |
-| 19 | Chant d'envoi | Je veux voir Dieu | `19-je-veux-voir-dieu` |
+| 1 | Chant d'entrée | Céleste Jérusalem | `01-celeste-jerusalem` |
+| 2 | Gloria | Messe de saint Claude de la Colombière | `02-gloria` |
+| 3 | Psaume 138 | Seigneur, tu connais si bien mon âme | `04-psaume` ✅ PDF |
+| 4 | Alléluia | Taizé | `05-alleluia` |
+| 5 | Invocation de l'Esprit Saint | Viens, Esprit très Saint (Ad Dei Gloriam) | `06-viens-esprit-saint` ✅ PDF |
+| 6 | Action de grâce (chanté 2 fois) | Laudate Dominum (Médéric & Solina) | `06-laudate-dominum` |
+| 7 | Prière universelle | O Marie, prends nos prières | `07-o-marie` |
+| 8 | Offertoire | Hostia Sancta | `08-hostia-sancta` |
+| 9 | Sanctus | | `09-sanctus` |
+| 10 | Anamnèse | | `10-anamnese` |
+| 11 | Notre Père (chanté) | Glorious | `11-notre-pere` |
+| 12 | Agnus Dei | Saint Augustin | `12-agnus-dei` |
+| 13 | Communion | En Esprit et en Vérité | `13-en-esprit-et-en-verite` |
+| 14 | Communion | En toi ma confiance | `14-en-toi-ma-confiance` |
+| 15 | Action de grâce | Anima Christi | `15-anima-christi` |
+| 16 | Chant d'envoi | Je veux voir Dieu | `16-je-veux-voir-dieu` |
+
+> Les 2 partitions déjà en place gardent leur nom d'origine (`04-psaume.pdf`,
+> `06-viens-esprit-saint.pdf`) ; peu importe le numéro, c'est l'ordre dans
+> `index.html` qui fait foi.
 
 ## Ajouter une partition
 
