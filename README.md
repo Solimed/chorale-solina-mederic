@@ -30,9 +30,8 @@ Site chorale/
 | 6 | Action de grâce (chanté 2 fois) | Laudate Dominum (Médéric & Solina) | `06-laudate-dominum` |
 | 7 | Prière universelle | O Marie, prends nos prières | `07-o-marie` |
 | 8 | Offertoire | Hostia Sancta | `08-hostia-sancta` |
-| 9 | Sanctus | | `09-sanctus` |
-| 10 | Anamnèse | | `10-anamnese` |
-| 11 | Notre Père (chanté) | Glorious | `11-notre-pere` |
+| 9 | Sanctus | Messe de saint Augustin | `09-sanctus` |
+| 10 | Notre Père (chanté) | Glorious | `11-notre-pere` |
 | 12 | Agnus Dei | Saint Augustin | `12-agnus-dei` |
 | 13 | Communion | En Esprit et en Vérité | `13-en-esprit-et-en-verite` |
 | 14 | Communion | En toi ma confiance | `14-en-toi-ma-confiance` |
